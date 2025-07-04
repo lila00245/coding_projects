@@ -2,6 +2,8 @@ import random
 
 def main():
 
+    ## can have it ask to guess, or to pick a # and have the computer guess
+
     print("welcome to the number guessing name, enter a range to start!")
 
     min_number: int = int(input("enter the minimum number: "))
